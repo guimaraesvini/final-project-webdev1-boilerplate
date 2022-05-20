@@ -38,14 +38,14 @@ export default class extends AbstractView{
                 <div class="col-12 col-md-3">
                     <a href="/countries/bra">
                         <img class="img-fluid" src="${getFlag("bra")}" alt="Brazil">
-                    </a>
+                    </a><br>
                     <span>From Brazil: <br>
                         Clelia | Vinicius</span>
                 </div>
                 <div class="col-12 col-md-3">
                      <a href="/countries/bra">
                       <img class="img-fluid" src="${getFlag("jpn")}" alt="">
-                    </a>
+                    </a><br>
                     <span>From Japan:<br> 
                         Atsuya</span>
                 </div>
